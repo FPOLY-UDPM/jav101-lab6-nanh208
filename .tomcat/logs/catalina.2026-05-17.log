@@ -1,0 +1,123 @@
+17-May-2026 22:17:11.330 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.117
+17-May-2026 22:17:11.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 30 2026 18:21:16 UTC
+17-May-2026 22:17:11.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.117.0
+17-May-2026 22:17:11.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+17-May-2026 22:17:11.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+17-May-2026 22:17:11.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+17-May-2026 22:17:11.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+17-May-2026 22:17:11.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.7+8-LTS-245
+17-May-2026 22:17:11.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+17-May-2026 22:17:11.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\WorkFolder\2026\JAVA\JavaWeb1\Java_Web_Template\.tomcat
+17-May-2026 22:17:11.340 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\WorkFolder\2026\JAVA\JavaWebServer\apache-tomcat-9.0.117
+17-May-2026 22:17:11.351 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+17-May-2026 22:17:11.351 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+17-May-2026 22:17:11.352 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+17-May-2026 22:17:11.352 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+17-May-2026 22:17:11.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+17-May-2026 22:17:11.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\WorkFolder\2026\JAVA\JavaWebServer\apache-tomcat-9.0.117
+17-May-2026 22:17:11.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\WorkFolder\2026\JAVA\JavaWeb1\Java_Web_Template\.tomcat
+17-May-2026 22:17:11.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\WorkFolder\2026\JAVA\JavaWeb1\Java_Web_Template\.tomcat\temp
+17-May-2026 22:17:11.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\WorkFolder\2026\JAVA\JavaWeb1\Java_Web_Template\.tomcat\conf\logging.properties
+17-May-2026 22:17:11.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+17-May-2026 22:17:11.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.1.4.1\lib\idea_rt.jar=60877
+17-May-2026 22:17:11.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+17-May-2026 22:17:11.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+17-May-2026 22:17:11.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+17-May-2026 22:17:11.480 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.7] using APR version [1.7.6].
+17-May-2026 22:17:11.481 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+17-May-2026 22:17:11.481 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+17-May-2026 22:17:11.498 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.19 27 Jan 2026]
+17-May-2026 22:17:12.373 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+17-May-2026 22:17:12.401 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1430] milliseconds
+17-May-2026 22:17:12.478 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+17-May-2026 22:17:12.478 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.117]
+17-May-2026 22:17:12.488 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\WorkFolder\2026\JAVA\JavaWeb1\Java_Web_Template\.tomcat\conf\Catalina\localhost\Java_Web_Template.xml]
+17-May-2026 22:17:12.998 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\WorkFolder\2026\JAVA\JavaWeb1\Java_Web_Template\.tomcat\conf\Catalina\localhost\Java_Web_Template.xml] has finished in [507] ms
+17-May-2026 22:17:13.008 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+17-May-2026 22:17:13.070 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [665] milliseconds
+17-May-2026 22:17:29.899 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+17-May-2026 22:17:29.916 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+17-May-2026 22:17:29.964 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+17-May-2026 22:17:29.974 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+17-May-2026 22:34:55.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.117
+17-May-2026 22:34:55.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 30 2026 18:21:16 UTC
+17-May-2026 22:34:55.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.117.0
+17-May-2026 22:34:55.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+17-May-2026 22:34:55.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+17-May-2026 22:34:55.215 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+17-May-2026 22:34:55.215 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+17-May-2026 22:34:55.215 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.7+8-LTS-245
+17-May-2026 22:34:55.215 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+17-May-2026 22:34:55.216 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\WorkFolder\2026\JAVA\JavaWeb1\Java_Web_Template\.tomcat
+17-May-2026 22:34:55.216 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\WorkFolder\2026\JAVA\JavaWebServer\apache-tomcat-9.0.117
+17-May-2026 22:34:55.228 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+17-May-2026 22:34:55.228 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+17-May-2026 22:34:55.228 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+17-May-2026 22:34:55.228 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+17-May-2026 22:34:55.228 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+17-May-2026 22:34:55.229 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\WorkFolder\2026\JAVA\JavaWebServer\apache-tomcat-9.0.117
+17-May-2026 22:34:55.229 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\WorkFolder\2026\JAVA\JavaWeb1\Java_Web_Template\.tomcat
+17-May-2026 22:34:55.229 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\WorkFolder\2026\JAVA\JavaWeb1\Java_Web_Template\.tomcat\temp
+17-May-2026 22:34:55.229 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\WorkFolder\2026\JAVA\JavaWeb1\Java_Web_Template\.tomcat\conf\logging.properties
+17-May-2026 22:34:55.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+17-May-2026 22:34:55.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.1.4.1\lib\idea_rt.jar=50936
+17-May-2026 22:34:55.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+17-May-2026 22:34:55.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+17-May-2026 22:34:55.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+17-May-2026 22:34:55.237 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.7] using APR version [1.7.6].
+17-May-2026 22:34:55.237 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+17-May-2026 22:34:55.237 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+17-May-2026 22:34:55.257 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.19 27 Jan 2026]
+17-May-2026 22:34:55.789 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+17-May-2026 22:34:55.820 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [993] milliseconds
+17-May-2026 22:34:55.902 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+17-May-2026 22:34:55.902 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.117]
+17-May-2026 22:34:55.916 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\WorkFolder\2026\JAVA\JavaWeb1\Java_Web_Template\.tomcat\conf\Catalina\localhost\Java_Web_Template.xml]
+17-May-2026 22:34:56.478 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\WorkFolder\2026\JAVA\JavaWeb1\Java_Web_Template\.tomcat\conf\Catalina\localhost\Java_Web_Template.xml] has finished in [561] ms
+17-May-2026 22:34:56.502 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+17-May-2026 22:34:56.537 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [714] milliseconds
+17-May-2026 22:37:23.770 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+17-May-2026 22:37:23.797 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+17-May-2026 22:37:23.817 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+17-May-2026 22:37:23.831 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+17-May-2026 22:37:30.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.117
+17-May-2026 22:37:30.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 30 2026 18:21:16 UTC
+17-May-2026 22:37:30.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.117.0
+17-May-2026 22:37:30.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+17-May-2026 22:37:30.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+17-May-2026 22:37:30.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+17-May-2026 22:37:30.345 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+17-May-2026 22:37:30.345 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.7+8-LTS-245
+17-May-2026 22:37:30.345 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+17-May-2026 22:37:30.346 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\WorkFolder\2026\JAVA\JavaWeb1\Java_Web_Template\.tomcat
+17-May-2026 22:37:30.346 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\WorkFolder\2026\JAVA\JavaWebServer\apache-tomcat-9.0.117
+17-May-2026 22:37:30.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+17-May-2026 22:37:30.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+17-May-2026 22:37:30.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+17-May-2026 22:37:30.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+17-May-2026 22:37:30.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+17-May-2026 22:37:30.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\WorkFolder\2026\JAVA\JavaWebServer\apache-tomcat-9.0.117
+17-May-2026 22:37:30.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\WorkFolder\2026\JAVA\JavaWeb1\Java_Web_Template\.tomcat
+17-May-2026 22:37:30.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\WorkFolder\2026\JAVA\JavaWeb1\Java_Web_Template\.tomcat\temp
+17-May-2026 22:37:30.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\WorkFolder\2026\JAVA\JavaWeb1\Java_Web_Template\.tomcat\conf\logging.properties
+17-May-2026 22:37:30.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+17-May-2026 22:37:30.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.1.4.1\lib\idea_rt.jar=57669
+17-May-2026 22:37:30.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+17-May-2026 22:37:30.362 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+17-May-2026 22:37:30.362 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+17-May-2026 22:37:30.368 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.7] using APR version [1.7.6].
+17-May-2026 22:37:30.369 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+17-May-2026 22:37:30.369 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+17-May-2026 22:37:30.377 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.19 27 Jan 2026]
+17-May-2026 22:37:30.896 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+17-May-2026 22:37:30.924 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [889] milliseconds
+17-May-2026 22:37:31.011 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+17-May-2026 22:37:31.012 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.117]
+17-May-2026 22:37:31.025 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\WorkFolder\2026\JAVA\JavaWeb1\Java_Web_Template\.tomcat\conf\Catalina\localhost\Java_Web_Template.xml]
+17-May-2026 22:37:31.544 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\WorkFolder\2026\JAVA\JavaWeb1\Java_Web_Template\.tomcat\conf\Catalina\localhost\Java_Web_Template.xml] has finished in [518] ms
+17-May-2026 22:37:31.558 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+17-May-2026 22:37:31.602 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [676] milliseconds
+17-May-2026 22:37:47.917 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+17-May-2026 22:37:47.931 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+17-May-2026 22:37:47.957 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+17-May-2026 22:37:47.965 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

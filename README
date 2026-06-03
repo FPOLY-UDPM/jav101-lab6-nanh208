@@ -1,0 +1,9 @@
+Đây là dự án Java Web
+- Sử dụng IntelliJ Community
+- Tomcat và Maven
+
+Khai báo ...Tomcat_Path..., tại file
+".idea\runConfigurations\Tomcat_9_server.xml"
+
+        <!-- Ví dụ "D:/JavaWebServer/apache-tomcat-9.0.117" -->
+        <option name="path" value="...Tomcat_Path..." />
