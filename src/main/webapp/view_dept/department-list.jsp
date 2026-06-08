@@ -7,6 +7,15 @@
 </head>
 <body class="container mt-5">
 
+<c:if test="${not empty message}">
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        ${message}
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+</c:if>
+
 <div class="d-flex justify-content-between align-items-center mb-4">
     <h2 class="text-primary m-0">QUẢN LÝ PHÒNG BAN</h2>
     <a href="${pageContext.request.contextPath}/departments?action=new" class="btn btn-success">➕ Thêm Phòng Ban Mới</a>
