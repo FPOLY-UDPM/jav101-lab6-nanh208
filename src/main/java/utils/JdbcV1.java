@@ -24,11 +24,16 @@ public class JdbcV1 {
      * Truy vấn dữ liệu (SELECT)
      */
     public static ResultSet executeQuery(String sql, Object... values) throws SQLException {
-        Connection connection = DB.getConnection();
-        PreparedStatement statement = connection.prepareStatement(sql);
-        for (int i = 0; i < values.length; i++) {
-            statement.setObject(i + 1, values[i]);
+        try (Connection connection = DB.getConnection();
+             PreparedStatement statement = connection.prepareStatement(sql)) {
+            for (int i = 0; i < values.length; i++) {
+                statement.setObject(i + 1, values[i]);
+            }
+            try (ResultSet rs = statement.executeQuery()) {
+                javax.sql.rowset.CachedRowSet crs = javax.sql.rowset.RowSetProvider.newFactory().createCachedRowSet();
+                crs.populate(rs);
+                return crs;
+            }
         }
-        return statement.executeQuery();
     }
 }
