@@ -20,18 +20,23 @@
       <version>4.0.1</version>
       <scope>provided</scope>
     </dependency>
-    <!-- Dùng cho JSTL - JAVA STANDARD TAG LIBRARY -->
-<!--    <dependency>-->
-<!--      <groupId>javax.servlet</groupId>-->
-<!--      <artifactId>jstl</artifactId>-->
-<!--      <version>1.2</version>-->
-<!--    </dependency>-->
-    <!-- Dùng để lập trình với MS SQL Server: JDBC 13.4, Java 11 and up -->
-<!--    <dependency>-->
-<!--      <groupId>com.microsoft.sqlserver</groupId>-->
-<!--      <artifactId>mssql-jdbc</artifactId>-->
-<!--      <version>13.4.0.jre11</version>-->
-<!--    </dependency>-->
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>jstl</artifactId>
+      <version>1.2</version>
+    </dependency>
+    <!-- Dùng để lập trình với MS SQL Server: JDBC 12.8.0, Java 8 -->
+    <dependency>
+      <groupId>com.microsoft.sqlserver</groupId>
+      <artifactId>mssql-jdbc</artifactId>
+      <version>12.8.0.jre8</version>
+    </dependency>
+    <!-- Hibernate & JPA -->
+    <dependency>
+      <groupId>org.hibernate</groupId>
+      <artifactId>hibernate-core</artifactId>
+      <version>5.6.15.Final</version>
+    </dependency>
   </dependencies>
   <build>
     <finalName>Java_Web_Template</finalName>
